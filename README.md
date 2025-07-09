@@ -64,4 +64,4 @@ If you're working on power system insulation, high-voltage design, or multiphysi
 
 **Dafinny Thanigaivel**  
 MEng – Electrical & Computer Engineering, University of Waterloo  
-[LinkedIn](https://www.linkedin.com/in/dafinny-thanigaivel/) • [GitHub](https://github.com/dafinny)
+[LinkedIn]([https://www.linkedin.com/in/dafinny-thanigaivel/](https://www.linkedin.com/in/dafinny-thanigaivel-298572245/)) • [GitHub](https://github.com/dafinny)
