@@ -41,7 +41,8 @@ Corona discharge is a significant concern in high-voltage power systems, often t
 ## 📄 Report
 
 📥 Download the full report here:  
-[Corona_Electrostatics_COMSOL_Dafinny.pdf](./Corona_Electrostatics_COMSOL_Dafinny.pdf)
+[Comsol_simulation.pdf](./Comsol%20simulation.pdf)
+
 
 The PDF includes:
 - Geometry schematics  
